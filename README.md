@@ -6,7 +6,6 @@ _Python 3.10_
 |Alex Sablan|sablanalex1@gmail.com|757-633-5411|
 
 ## Instructions
-***
 
 ### Packages
 |Package|Reason|
@@ -42,7 +41,6 @@ HTTPS doesn't particularly function correctly since I only created a self-signed
 certificate when starting the app. This is why primarily HTTP was utilized for testing.
 
 ## What I Would Do Next
-***
 
 1. Hard Threshold
 
